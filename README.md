@@ -5,3 +5,4 @@ A bouncing ball inside a rectagle, created using HTML and Javascript to design t
 Simply download the file and run as its HTML based, it will open in the browser itself
 ## Screenshot
 
+![Ball bouncing](https://github.com/M-amin91/Bouncing-Ball/assets/128710490/cc963a00-1783-4b59-af96-2a51d3ba4b10)
