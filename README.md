@@ -1,6 +1,6 @@
 # Bouncing-Ball
 ## Description
-A bouncing ball inside a rectangle, created using HTML and Javascript to design the title and the objects
+A bouncing ball inside a rectangle, created using HTML and Javascript for the title and objects
 ## Instruction
 Simply download the file and run it as its HTML based, it will open in the browser itself
 ## Screenshot
